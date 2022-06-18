@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\vgc\\VGC\\VGC.csproj": {}
+    "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\vgc\\VGC\\VGC.csproj": {
+    "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\vgc\\VGC\\VGC.csproj",
+        "projectUniqueName": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj",
         "projectName": "VGC",
-        "projectPath": "C:\\Users\\user\\source\\repos\\vgc\\VGC\\VGC.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\vgc\\VGC\\obj\\",
+        "projectPath": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj",
+        "packagesPath": "C:\\Users\\lungh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lungh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,6 +55,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.6, )"
             }
