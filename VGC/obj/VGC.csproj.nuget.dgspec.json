@@ -1,31 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Solofelang\\source\\repos\\vgc\\VGC\\VGC.csproj": {}
+    "C:\\Users\\MJ\\source\\repos\\lunghekani\\vgc\\VGC\\VGC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Solofelang\\source\\repos\\vgc\\VGC\\VGC.csproj": {
+    "C:\\Users\\MJ\\source\\repos\\lunghekani\\vgc\\VGC\\VGC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Solofelang\\source\\repos\\vgc\\VGC\\VGC.csproj",
+        "projectUniqueName": "C:\\Users\\MJ\\source\\repos\\lunghekani\\vgc\\VGC\\VGC.csproj",
         "projectName": "VGC",
-        "projectPath": "C:\\Users\\Solofelang\\source\\repos\\vgc\\VGC\\VGC.csproj",
-        "packagesPath": "C:\\Users\\Solofelang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Solofelang\\source\\repos\\vgc\\VGC\\obj\\",
+        "projectPath": "C:\\Users\\MJ\\source\\repos\\lunghekani\\vgc\\VGC\\VGC.csproj",
+        "packagesPath": "C:\\Users\\MJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MJ\\source\\repos\\lunghekani\\vgc\\VGC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Solofelang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.6, )"
             }
           },
           "imports": [
@@ -81,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
