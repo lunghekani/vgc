@@ -13,6 +13,8 @@ namespace VGC
         public DbSet<Project> Projects { get; set; }
         public DbSet<Users> User { get; set; }
         public DbSet<Signup> Signup { get; set; }
+        public DbSet<Topics> Topics { get; set; }
+
 
     }
 }
