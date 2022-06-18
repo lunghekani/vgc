@@ -1924,19 +1924,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lungh\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\vgc\\VGC\\VGC.csproj",
       "projectName": "VGC",
-      "projectPath": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\VGC.csproj",
-      "packagesPath": "C:\\Users\\lungh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lungh\\source\\repos\\vgc\\VGC\\obj\\",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\vgc\\VGC\\VGC.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\vgc\\VGC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lungh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
