@@ -11,7 +11,7 @@ namespace VGC
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            //test comment
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<ApplicationDbContext>(
