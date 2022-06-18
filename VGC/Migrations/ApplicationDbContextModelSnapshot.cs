@@ -278,6 +278,24 @@ namespace VGC.Migrations
                     b.ToTable("Signup");
                 });
 
+            modelBuilder.Entity("VGC.Models.Topics", b =>
+                {
+                    b.Property<string>("TopicId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<string>("TopicDescription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("TopicName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("TopicId");
+
+                    b.ToTable("Topics");
+                });
+
             modelBuilder.Entity("VGC.Models.Users", b =>
                 {
                     b.Property<int>("UserId")
