@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VGC
 build_property.RootNamespace = VGC
-build_property.ProjectDir = C:\Users\Solofelang\Source\Repos\vgc\VGC\
+build_property.ProjectDir = C:\Users\Solofelang\source\repos\vgc\VGC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Solofelang\Source\Repos\vgc\VGC
+build_property.MSBuildProjectDirectory = C:\Users\Solofelang\source\repos\vgc\VGC
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Solofelang/Source/Repos/vgc/VGC/Views/Home/Index.cshtml]
