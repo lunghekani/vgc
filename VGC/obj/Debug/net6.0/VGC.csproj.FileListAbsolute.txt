@@ -62,3 +62,6 @@ C:\Users\user\Source\Repos\vgc\VGC\obj\Debug\net6.0\refint\VGC.dll
 C:\Users\user\Source\Repos\vgc\VGC\obj\Debug\net6.0\VGC.pdb
 C:\Users\user\Source\Repos\vgc\VGC\obj\Debug\net6.0\VGC.genruntimeconfig.cache
 C:\Users\user\Source\Repos\vgc\VGC\obj\Debug\net6.0\ref\VGC.dll
+C:\Users\user\source\repos\vgc\VGC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\source\repos\vgc\VGC\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\vgc\VGC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
