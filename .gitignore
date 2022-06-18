@@ -3,6 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode
 
 ### VisualStudioCode ###
+.vs/*
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
